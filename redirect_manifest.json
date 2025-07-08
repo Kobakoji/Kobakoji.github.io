@@ -8,25 +8,25 @@
   "theme_color": "#00d9ff",
   "icons": [
     {
-      "src": "/FORiTRecomo04_new.png",
+      "src": "/icon-180-v2.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/FORiTRecomo04_new.png",
+      "src": "/icon-180-v2.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/FORiTRecomo04_new.png",
+      "src": "/icon-180-v2.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "/FORiTRecomo04_new.png",
+      "src": "/icon-180-v2.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
