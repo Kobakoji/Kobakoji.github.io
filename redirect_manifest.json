@@ -1,6 +1,6 @@
 {
-  "name": "FORiT Recomo Launcher",
-  "short_name": "Recomo Launcher",
+  "name": "FORiT Recomo",
+  "short_name": "FORiT Recomo",
   "description": "FORiT Recomoを起動するためのランチャー",
   "start_url": "/redirect.html",
   "display": "standalone",
